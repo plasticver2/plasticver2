@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rltxjf
+- 👋 Hi, I’m @plasticver2
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on React project
